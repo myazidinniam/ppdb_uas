@@ -2,9 +2,9 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 /**
  * @package  : PPDB Web Application.
- * @author   : Fika Ridaul Maulayya <ridaulmaulayya@gmail.com>
+ * @author   : BismaLabs <bismalabs@gmail.com>
  * @since    : 2017
- * @license  : https://maulayya.com/portofolio/ppdb-muallimin-muallimat/
+ * @license  : https://bismalabs.co.id
  */
 class Daftar extends CI_Controller {
 
@@ -47,8 +47,8 @@ class Daftar extends CI_Controller {
         }else{
 
             $this->form_validation->set_message('check_captcha', '<div class="alert alert-danger" style="font-family:Roboto;margin-top: 5px">
-                                                        <i class="fa fa-exclamation-circle"></i> Kode captcha salah!
-                                                     </div>');
+            <i class="fa fa-exclamation-circle"></i> Kode captcha salah!
+         </div>');
 
             return false;
 

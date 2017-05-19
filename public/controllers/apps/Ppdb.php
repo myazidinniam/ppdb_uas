@@ -1,10 +1,10 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 /**
- * @package  : Medical Top Team.
- * @author   : Fika Ridaul Maulayya <ridaulmaulayya@gmail.com>
+ * @package  : PPDB Web Application.
+ * @author   : BismaLabs <bismalabs@gmail.com>
  * @since    : 2017
- * @license  : https://maulayya.com/portofolio/medical-top-team/
+ * @license  : https://bismalabs.co.id
  */
 class Ppdb extends CI_Controller
 {

@@ -2,7 +2,10 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
- *
+ * @package  : PPDB Web Application.
+ * @author   : BismaLabs <bismalabs@gmail.com>
+ * @since    : 2017
+ * @license  : https://bismalabs.co.id
  */
 class Cetak extends CI_Controller
 {

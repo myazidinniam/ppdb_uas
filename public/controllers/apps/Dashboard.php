@@ -2,11 +2,10 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 /**
  * @package  : PPDB Web Application.
- * @author   : Fika Ridaul Maulayya <ridaulmaulayya@gmail.com>
+ * @author   : BismaLabs <bismalabs@gmail.com>
  * @since    : 2017
- * @license  : https://maulayya.com/portofolio/ppdb-muallimin-muallimat/
- */
-class Dashboard extends CI_Controller
+ * @license  : https://bismalabs.co.id
+ */class Dashboard extends CI_Controller
 {
 
     public function __construct()
